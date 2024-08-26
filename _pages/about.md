@@ -11,4 +11,4 @@ I am a PhD candidate in <a href="https://economics.illinois.edu/">Economics at t
 
 My name, Namgyoon Oh, is pronounced "Nahm-gyoon Oh," but you can simply call me "Oh."
 
-Feel free to contact me at <a href="mailto:no11@illinois.edu">no11@illinois.edu.</a>
+Feel free to contact me at <a href="mailto:no11@illinois.edu">no11@illinois.edu</a>
